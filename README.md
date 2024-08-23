@@ -1,6 +1,4 @@
-# TechInfo
-
-🚀 Next.js vs. React: A Practical Guide to Choosing the Right Framework
+# 🚀 Next.js vs. React: A Practical Guide to Choosing the Right Framework
 When starting a new project, choosing between Next.js and React can be a critical decision. Both are powerful tools, but each shines in different scenarios. This guide will help you identify which one is best for your project needs.
 
 🛠 What is React?
